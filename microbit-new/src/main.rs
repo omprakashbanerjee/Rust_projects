@@ -51,11 +51,11 @@ for b in range {
   println!("the second number is {}", b);
 }
 
-let animals = vec!=["dog","cat", "cow"];
+let animals = vec!["dog","cat", "cow"];
 for a in animals.iter(){
   println!("the second number is {}", a)
 }
-// if we dont use .ter() in the for loop then ownership of animals will be transfered to for loop
+// if we dont use .iter() in the for loop then ownership of animals will be transfered to for loop
 // and we wont be able to access the animals after the loop
 
 }
