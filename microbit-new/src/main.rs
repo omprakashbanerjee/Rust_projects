@@ -95,18 +95,20 @@ fn main() {
 
 
 // Functions in Rust
-print_numbers_to(5);
-if is_even(45){
-  println!("it is even");
+print_numbers_to(15);
+
 }
-else {
-  println!("it is odd");
-}
-}
-fn print_numbers_to(num:u32){
-for n in 1..num{
-  println!("{}",n);
-}
+fn print_numbers_to(num:u32)
+{
+  for n in 1..num
+  {
+   if is_even(n){
+    println!("{} it is even",n);
+  }
+    else {
+      println!("{} it is odd",n);
+    }
+  }
 }
 fn is_even(num:u32) -> bool{
   return num %2 ==0;
