@@ -1,3 +1,7 @@
+const MAX_NUMBER:u8 = 25;
+/*constants can be accessed but not changed*/
+/*constants should be declared with the data types*/
+enum Direction{ Up, Down, Left , Right }
 fn main() {
     let x =45;// defining unmutable variables
    // println!("The val x is {}",x); // printing it
@@ -57,5 +61,24 @@ for a in animals.iter(){
 }
 // if we dont use .iter() in the for loop then ownership of animals will be transfered to for loop
 // and we wont be able to access the animals after the loop
+for (index,a) in animals.iter().enumerate(){
+  println!("{} animal is  {}", index,a);
+}
 
+// enum 
+// enum needs to be defined before the main fn therefore check top of the code to see enumerations
+// let myDirection:Direction = Direction :: Up;
+// /**single colon is used for declaring type and double colon is used to access the varible */
+// match myDirection {
+//   /*match command is similar to switch statement */
+//   Direction::Up => println!("We are Up"),
+//   Direction::Down => println!("We are Down"),
+//   Direction::Left => println!("We are Left"),
+//   Direction::Right => println!("We are Right"),
+// }
+// tuples
+let tup1 = (10,20,30,40,50); // a tuple of integers
+println!("{}",tup1.4);
+let tup2 = (1,"hello",'a',40.2,true);/*if we write a instead of 'a' then it will print the hex value of a*/
+println!("{}",tup2.2);
 }
