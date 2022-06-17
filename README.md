@@ -1,4 +1,4 @@
-# microbit
+# Rust Tutorial
 
 This repo is intended to learn Rust and get familiarized with all syntaxes
 
