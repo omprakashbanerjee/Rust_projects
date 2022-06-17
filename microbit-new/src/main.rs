@@ -95,21 +95,35 @@ fn main() {
 
 
 // Functions in Rust
-print_numbers_to(15);
+// print_numbers_to(15);
+let beta = 20;
+{
+  let alpha = 10;
+  println!("{} is alpha and {} is beta", alpha, beta);
+  /*This is a block of codwe which has access of this block as well as outer main block */
+  /*varibales declared in this scope will not be available to other block outside here  */
+  let y = 20; // on top of the code it was defined as 45 but here we are defining it as 20
+  println!("shadow value of y inside the code block is {}",y);
 
 }
-fn print_numbers_to(num:u32)
-{
-  for n in 1..num
-  {
-   if is_even(n){
-    println!("{} it is even",n);
-  }
-    else {
-      println!("{} it is odd",n);
-    }
-  }
+println!("un shadow value of y is now {}",y);
+/*shadowing is when we re define a varibale inside a block but outside the block we want our old value of the varible  */
+ 
+let yr = &y;
+println!("value of y is {}  using its reference", yr);
 }
-fn is_even(num:u32) -> bool{
-  return num %2 ==0;
-}
+// fn print_numbers_to(num:u32)
+// {
+//   for n in 1..num
+//   {
+//    if is_even(n){
+//     println!("{} it is even",n);
+//   }
+//     else {
+//       println!("{} it is odd",n);
+//     }
+//   }
+// }
+// fn is_even(num:u32) -> bool{
+//   return num %2 ==0;
+// }
