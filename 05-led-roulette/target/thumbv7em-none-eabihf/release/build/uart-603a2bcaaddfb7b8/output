@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/release/build/uart-603a2bcaaddfb7b8/out
+cargo:rerun-if-changed=memory.x

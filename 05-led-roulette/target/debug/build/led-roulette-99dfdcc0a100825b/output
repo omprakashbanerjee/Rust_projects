@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/tcr/Documents/GitHub/microbit/05-led-roulette/target/debug/build/led-roulette-99dfdcc0a100825b/out
+cargo:rerun-if-changed=memory.x

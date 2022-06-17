@@ -1,0 +1,1 @@
+/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/debug/led-roulette: /home/tcr/discovery/microbit/src/05-led-roulette/build.rs /home/tcr/discovery/microbit/src/05-led-roulette/memory.x /home/tcr/discovery/microbit/src/05-led-roulette/src/main.rs

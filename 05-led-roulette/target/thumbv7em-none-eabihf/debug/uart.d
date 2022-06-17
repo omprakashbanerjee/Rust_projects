@@ -1,0 +1,1 @@
+/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/debug/uart: /home/tcr/discovery/microbit/src/07-uart/build.rs /home/tcr/discovery/microbit/src/07-uart/memory.x /home/tcr/discovery/microbit/src/07-uart/src/main.rs /home/tcr/discovery/microbit/src/07-uart/src/serial_setup.rs

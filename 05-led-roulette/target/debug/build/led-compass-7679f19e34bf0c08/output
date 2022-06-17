@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/tcr/discovery/microbit/target/debug/build/led-compass-7679f19e34bf0c08/out
+cargo:rerun-if-changed=memory.x

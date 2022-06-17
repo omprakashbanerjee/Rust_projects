@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/tcr/discovery/microbit/target/debug/build/uart-cc0a45be9b28d48d/out
+cargo:rerun-if-changed=memory.x

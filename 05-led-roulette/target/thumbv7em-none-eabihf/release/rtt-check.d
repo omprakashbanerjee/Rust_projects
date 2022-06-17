@@ -1,0 +1,1 @@
+/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/release/rtt-check: /home/tcr/discovery/microbit/src/03-setup/build.rs /home/tcr/discovery/microbit/src/03-setup/memory.x /home/tcr/discovery/microbit/src/03-setup/src/main.rs

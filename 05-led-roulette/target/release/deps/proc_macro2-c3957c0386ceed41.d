@@ -1,0 +1,12 @@
+/home/tcr/discovery/microbit/target/release/deps/proc_macro2-c3957c0386ceed41.rmeta: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/home/tcr/discovery/microbit/target/release/deps/libproc_macro2-c3957c0386ceed41.rlib: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/home/tcr/discovery/microbit/target/release/deps/proc_macro2-c3957c0386ceed41.d: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs:

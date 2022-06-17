@@ -1,0 +1,1 @@
+/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/release/i2c: /home/tcr/discovery/microbit/src/08-i2c/build.rs /home/tcr/discovery/microbit/src/08-i2c/memory.x /home/tcr/discovery/microbit/src/08-i2c/src/main.rs /home/tcr/discovery/microbit/src/08-i2c/src/serial_setup.rs

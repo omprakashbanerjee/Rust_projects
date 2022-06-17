@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/debug/build/i2c-a51025d1da35b708/out
+cargo:rerun-if-changed=memory.x

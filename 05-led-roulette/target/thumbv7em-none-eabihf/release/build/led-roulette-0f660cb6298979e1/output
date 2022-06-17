@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/release/build/led-roulette-0f660cb6298979e1/out
+cargo:rerun-if-changed=memory.x

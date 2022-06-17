@@ -1,0 +1,12 @@
+/home/tcr/Documents/GitHub/microbit/05-led-roulette/target/debug/deps/proc_macro2-c7eb1a114f2b4dde.rmeta: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/home/tcr/Documents/GitHub/microbit/05-led-roulette/target/debug/deps/libproc_macro2-c7eb1a114f2b4dde.rlib: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/home/tcr/Documents/GitHub/microbit/05-led-roulette/target/debug/deps/proc_macro2-c7eb1a114f2b4dde.d: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs:

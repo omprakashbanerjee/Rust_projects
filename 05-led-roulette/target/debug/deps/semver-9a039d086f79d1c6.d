@@ -1,0 +1,14 @@
+/home/tcr/discovery/microbit/target/debug/deps/semver-9a039d086f79d1c6.rmeta: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/backport.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/display.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/error.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/eval.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/identifier.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/impls.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/parse.rs
+
+/home/tcr/discovery/microbit/target/debug/deps/libsemver-9a039d086f79d1c6.rlib: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/backport.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/display.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/error.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/eval.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/identifier.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/impls.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/parse.rs
+
+/home/tcr/discovery/microbit/target/debug/deps/semver-9a039d086f79d1c6.d: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/backport.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/display.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/error.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/eval.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/identifier.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/impls.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/parse.rs
+
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/lib.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/backport.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/display.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/error.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/eval.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/identifier.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/impls.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.9/src/parse.rs:

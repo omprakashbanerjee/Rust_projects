@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/release/build/punch-o-meter-647801c859e97875/out
+cargo:rerun-if-changed=memory.x

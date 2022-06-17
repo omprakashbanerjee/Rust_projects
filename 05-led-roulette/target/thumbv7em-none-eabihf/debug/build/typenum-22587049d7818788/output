@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/debug/build/typenum-22587049d7818788/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/debug/build/typenum-22587049d7818788/out/op.rs

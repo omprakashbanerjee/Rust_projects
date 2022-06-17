@@ -1,0 +1,11 @@
+/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/release/deps/tiny_led_matrix-889a3b86d7ffd6e1.rmeta: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/control.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/display.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/timer.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/render.rs
+
+/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/release/deps/libtiny_led_matrix-889a3b86d7ffd6e1.rlib: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/control.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/display.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/timer.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/render.rs
+
+/home/tcr/discovery/microbit/target/thumbv7em-none-eabihf/release/deps/tiny_led_matrix-889a3b86d7ffd6e1.d: /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/lib.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/control.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/display.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/timer.rs /home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/render.rs
+
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/lib.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/control.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/display.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/timer.rs:
+/home/tcr/.cargo/registry/src/github.com-1ecc6299db9ec823/tiny-led-matrix-1.0.2/src/render.rs:
