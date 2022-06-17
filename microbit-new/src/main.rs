@@ -111,6 +111,11 @@ println!("un shadow value of y is now {}",y);
  
 let yr = &y;
 println!("value of y is {}  using its reference", yr);
+
+/*to update the value of a varibale using its reference can be done if the reference is declared as mutable  */
+let yrr = &mut y;
+*yrr +=1;
+println!("value of y updated to  {} using its reference",yrr)
 }
 // fn print_numbers_to(num:u32)
 // {
