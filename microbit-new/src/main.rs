@@ -57,7 +57,7 @@ fn main() {
 
 // let animals = vec!["dog","cat", "cow"];
 // for a in animals.iter(){
-//   println!("the second number is {}", a)
+//   println!("the animals are {}", a)
 // }
 // // if we dont use .iter() in the for loop then ownership of animals will be transfered to for loop
 // // and we wont be able to access the animals after the loop
