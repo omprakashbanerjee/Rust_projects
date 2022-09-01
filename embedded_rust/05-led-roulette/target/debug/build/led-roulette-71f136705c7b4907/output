@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/omprakash/Documents/GitHub/Rust_projects/05-led-roulette/target/debug/build/led-roulette-71f136705c7b4907/out
+cargo:rerun-if-changed=memory.x

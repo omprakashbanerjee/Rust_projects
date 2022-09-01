@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/omprakash/Documents/GitHub/Rust_projects/05-led-roulette/target/debug/build/cortex-m-rt-356d9f7a9e35cee2/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in
