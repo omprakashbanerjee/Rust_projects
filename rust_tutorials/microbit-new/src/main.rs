@@ -13,22 +13,13 @@ fn main() {
       // y= 60;// updating an mutable
 
       // println!("The val y is {}",y); // printing it
-   let mut a:i64 =10; // signed integer 64 bit, similary i32 for signer inter 32 bit
+   let mut a:i64 =10; // signed integer 64 bit, similary i32 for signerd integer 32 bit
 //   let mut b:u64 =20; // unsigned integer
    let mut _c:f32=20.12;// float 32 bit(in case this varibale is not mutated later in the code then underscore is given when declared)
 //   let mut d:bool=true;// booleans
 
    /*if we declare a varibale as mutable and not update in the code then it will give warning 
    in this case we can declare any varibale by just putting a underscore before the variable*/
-
-   /*if else statements*/
-  //  if a>30 {
-  //    println!("a is smaller than 30")
-  //   }
-  //   else {
-  //     println!("if condition didnt match")
-  //   }
-
 
 // Functions in Rust
 // print_numbers_to(15);
@@ -55,18 +46,3 @@ println!("value of y updated to  {} using its reference",yrr)
 }
 
 
-// fn print_numbers_to(num:u32)
-// {
-//   for n in 1..num
-//   {
-//    if is_even(n){
-//     println!("{} it is even",n);
-//   }
-//     else {
-//       println!("{} it is odd",n);
-//     }
-//   }
-// }
-// fn is_even(num:u32) -> bool{
-//   return num %2 ==0;
-// }

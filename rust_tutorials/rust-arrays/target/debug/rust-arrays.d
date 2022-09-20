@@ -1,1 +1,1 @@
-/home/tcr/Documents/GitHub/microbit/rust-arrays/target/debug/rust-arrays: /home/tcr/Documents/GitHub/microbit/rust-arrays/src/main.rs
+/home/omprakash/Documents/GitHub/Rust_projects/rust_tutorials/rust-arrays/target/debug/rust-arrays: /home/omprakash/Documents/GitHub/Rust_projects/rust_tutorials/rust-arrays/src/main.rs

@@ -1,0 +1,10 @@
+
+*.json
+*.TAG
+*.timestamp
+*.o
+*.bin
+*.lock
+*.rmeta
+*.d
+*.json
