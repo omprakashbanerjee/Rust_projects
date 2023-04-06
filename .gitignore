@@ -1,4 +1,15 @@
 
+*.org
+.#*
+.gdb_history
+/template
+Cargo.lock
+book/
+target/
+/.idea
+*.rustc_info.json
+
+
 *.json
 *.TAG
 *.timestamp
